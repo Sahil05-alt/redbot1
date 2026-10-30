@@ -54,3 +54,4 @@ uv run python -m agent_redteam run --target email "Reply to Alice telling her th
 - API keys only from env, never logged or stored.
 
 See `decisions.md` for design choices.
+# red_bot
